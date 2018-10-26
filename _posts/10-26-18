@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Week 6"
+date: 2018-10-25
+---
+In this class we have been learning how to code expresions and it is alot like Algebra 1. Instead of the operation going in between the numbers like in algebra, The operation goes first in the parentheses then the numbers with a space in between them. For example, a expression in math would be 7(9+7) but in code it would be (* 7(+ 9 7))
