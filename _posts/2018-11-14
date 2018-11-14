@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Week 7"
+date: 2018-11-14
+---
+In computer science we are learning how functions in coding work. They are kind of like mathematical equations but instead of doing something like 2+2=4 it is (+ 2 2) and that would be 4. Also we are learning shortcuts to write functions faster. For example you can use the function define to make one word a function. For example, if I put (define Shape1(triangle 50 "solid" "red") everytime I type Shape1 in the interactions menu i will get a size 50 red triangle. 
+  
