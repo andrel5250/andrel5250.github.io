@@ -4,7 +4,7 @@ title: "Flag Project - Final Submission"
 date: 2018-12-21
 ---
 
-## Flag of United Kingdom by _Andre Lopez_
+## Flag of UK by Andre Lopez
 
 ## Describe your program
 
