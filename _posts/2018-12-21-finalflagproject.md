@@ -8,14 +8,14 @@ date: 2018-12-21
 
 ## Describe your program
 
--   What country did you design for? _then delete this instruction_
--   What grade do you expect? _then delete this instruction_
+-   I designed this for the flag of the United Kingdom. I believe this project should get a four because it matched the exact same widths and lengths for the uk flag and it is completly done
 
-<!--- Delete this comment and add your writing -->
+
+
 
 ## Current output
 
--   Insert an image that your program currently produces. _then delete this instruction_
+
 
 * * *
 ![Flag](/images/final-flag.png)
@@ -23,9 +23,7 @@ date: 2018-12-21
 
 ## Describe your process.
 
--   What questions, strategies, help from peers or teacher, or thinking got you to this point? _then delete this instruction_
-
-<!--- Delete this comment and add your writing -->
+<!--- All the different definitions confused me but after ALOT of thinking I finally got them right. Also i needed help with getting the specific colors but i also found that out myself-->
 
 
 ## Explain your code.
@@ -43,8 +41,8 @@ date: 2018-12-21
 
 * * *
 
--   Explain the code you posted by telling us about each argument.
--   Then tell us how your code section fits into the whole.
+-   Everything in this section  of the code is just using put-image. What put-image does is put two images together on an overlay once you input a shape size and coordinates. This is the part of my program where I made sure that all teh stripes on the flag were aligned and in their right place.
+
  
 
 
